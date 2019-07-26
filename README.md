@@ -1,7 +1,7 @@
 vaadingridfrozencolumnreorder
 =============================
 
-Demonstrate the problem in GitHub issue #10546 grid column frozen column reorder issue with SelectionMode.MULTI</description>
+Demonstrate the problem in GitHub issue #10546 grid column frozen column reorder issue with SelectionMode.MULTI
 
 *Steps to reproduce:*
 - Drag the first frozen column behind the second column.
